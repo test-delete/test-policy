@@ -27,4 +27,4 @@ jobs:
 #           output: 'minify/src/' # (OPTIONAL)
         
       - name: Publish action 
-        uses: actions-on-packages/package-action@latest
+        uses: actions-on-packages/package-action@0.4.4
